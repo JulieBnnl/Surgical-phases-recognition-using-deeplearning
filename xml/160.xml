@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>868</id>
+      <size>63844</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-05-29 12:43:11.143231+00:00</created>
+      <updated>2023-06-01 09:42:27.394334+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>63843</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>868</id>
+          <start>0</start>
+          <stop>63843</stop>
+          <url>http://131.175.66.74:8080/api/jobs/868</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>mrsvision</username>
+        <email>mrs@vision.xom</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Water flush</name>
+          <color>#33ddff</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Tool</name>
+          <color>#fa3253</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Out of focus</name>
+          <color>#83e070</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Stuck against a wall</name>
+          <color>#ff00f9</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Informative</name>
+          <color>#fafa37</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>Endoscope out of body</name>
+          <color>#3d3df5</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-06-12 14:44:19.709388+00:00</dumped>
+    <original_size>
+      <width>1268</width>
+      <height>1022</height>
+    </original_size>
+  </meta>
+  <image id="53" name="frame_000053" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="54" name="frame_000054" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="55" name="frame_000055" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="56" name="frame_000056" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="57" name="frame_000057" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="58" name="frame_000058" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="59" name="frame_000059" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="60" name="frame_000060" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="61" name="frame_000061" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="62" name="frame_000062" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="63" name="frame_000063" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="64" name="frame_000064" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="65" name="frame_000065" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="66" name="frame_000066" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="67" name="frame_000067" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="68" name="frame_000068" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="69" name="frame_000069" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="70" name="frame_000070" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="71" name="frame_000071" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="72" name="frame_000072" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="73" name="frame_000073" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="74" name="frame_000074" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="75" name="frame_000075" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="76" name="frame_000076" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="77" name="frame_000077" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="78" name="frame_000078" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="79" name="frame_000079" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="80" name="frame_000080" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="81" name="frame_000081" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="82" name="frame_000082" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="83" name="frame_000083" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="84" name="frame_000084" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="85" name="frame_000085" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="86" name="frame_000086" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="87" name="frame_000087" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="88" name="frame_000088" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="89" name="frame_000089" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13826" name="frame_013826" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13827" name="frame_013827" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13828" name="frame_013828" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13829" name="frame_013829" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13830" name="frame_013830" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13831" name="frame_013831" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13832" name="frame_013832" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13833" name="frame_013833" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13834" name="frame_013834" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13835" name="frame_013835" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13836" name="frame_013836" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13837" name="frame_013837" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13838" name="frame_013838" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13839" name="frame_013839" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13840" name="frame_013840" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13841" name="frame_013841" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13842" name="frame_013842" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13843" name="frame_013843" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13844" name="frame_013844" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13845" name="frame_013845" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13846" name="frame_013846" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13847" name="frame_013847" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="13848" name="frame_013848" width="1268" height="1022">
+    <tag label="Endoscope out of body" source="manual">
+    </tag>
+  </image>
+  <image id="20679" name="frame_020679" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20680" name="frame_020680" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20681" name="frame_020681" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20682" name="frame_020682" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20683" name="frame_020683" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20684" name="frame_020684" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20685" name="frame_020685" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20686" name="frame_020686" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20687" name="frame_020687" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20688" name="frame_020688" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20689" name="frame_020689" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20690" name="frame_020690" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20691" name="frame_020691" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20692" name="frame_020692" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20693" name="frame_020693" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20694" name="frame_020694" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20695" name="frame_020695" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20696" name="frame_020696" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20697" name="frame_020697" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20698" name="frame_020698" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20699" name="frame_020699" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20700" name="frame_020700" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20701" name="frame_020701" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20702" name="frame_020702" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20703" name="frame_020703" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20704" name="frame_020704" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20705" name="frame_020705" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20706" name="frame_020706" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20707" name="frame_020707" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20708" name="frame_020708" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20709" name="frame_020709" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20710" name="frame_020710" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20711" name="frame_020711" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20712" name="frame_020712" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20713" name="frame_020713" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20714" name="frame_020714" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20715" name="frame_020715" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20716" name="frame_020716" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20717" name="frame_020717" width="1268" height="1022">
+    <tag label="Water flush" source="manual">
+    </tag>
+  </image>
+  <image id="20718" name="frame_020718" width="1268" height="1022">
+  </image>
+  <image id="20719" name="frame_020719" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+  <image id="20720" name="frame_020720" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+  <image id="20721" name="frame_020721" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+  <image id="20722" name="frame_020722" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+  <image id="20723" name="frame_020723" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+  <image id="20724" name="frame_020724" width="1268" height="1022">
+    <tag label="Stuck against a wall" source="manual">
+    </tag>
+  </image>
+</annotations>
